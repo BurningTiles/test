@@ -13,3 +13,5 @@ print(remove_adjacent_dup("cabba"))
 # After remove aa: c
 # print c
 ```
+
+[Solution](2021-09-23)
