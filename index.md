@@ -14,8 +14,8 @@ print(remove_adjacent_dup("cabba"))
 # print c
 ```
 
-Date | Problem
----- | -------
-20 July 2021 | **[Remove Adjacent Duplicate Characters](2021-09-23)**
+| Date | Problem |
+| ---- | ------- |
+| 20 July 2021 | **[Remove Adjacent Duplicate Characters](2021-09-23)** |
 
 ## [Solution](2021-09-23)
