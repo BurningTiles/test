@@ -14,4 +14,4 @@ print(remove_adjacent_dup("cabba"))
 # print c
 ```
 
-[Solution](2021-09-23)
+## [Solution](2021-09-23)
