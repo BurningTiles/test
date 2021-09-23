@@ -14,4 +14,9 @@ print(remove_adjacent_dup("cabba"))
 # print c
 ```
 
+| Date | Problem | Right |
+|:-----|:--------:|------:|
+| 20 July 2021 | **[Remove Adjacent Duplicate Characters](2021-09-23)** | $1600 |
+| L1   |  `code`  |   $12 |
+| L2   | _italic_ |    $1 |
 ## [Solution](2021-09-23)
