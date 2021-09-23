@@ -16,6 +16,6 @@ print(remove_adjacent_dup("cabba"))
 
 | Date | Problem |
 | ---- | ------- |
-| 20 July 221 | **[Remove Adjacent Duplicate Characters](solution.cpp)** |
+| 20 July 2021 | **[Remove Adjacent Duplicate Characters](solution.md)** |
 
 ## [Solution](2021-09-23)
